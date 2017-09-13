@@ -4,7 +4,7 @@
   "description": "A bot that automatically relays Discord and Telegram messages from one group to another.",
   "main": "ditecross.js",
   "scripts": {
-    "start": "node ditecross.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
